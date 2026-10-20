@@ -6,7 +6,7 @@ const header = () => {
     <div className={style.header}>
       <h3>Hola</h3>
       <p>How are you</p>
-      <button className={style.btn}>Login</button>
+      <button className={style.btn }>Login</button>
     </div>
   )
 }
